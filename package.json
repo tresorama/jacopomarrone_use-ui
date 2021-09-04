@@ -1,6 +1,6 @@
 {
   "name": "@jacopomarrone_useui/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "UI library jachi.",
   "main": "./dist/index.js",
   "private": false,

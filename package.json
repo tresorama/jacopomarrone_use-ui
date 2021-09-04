@@ -4,6 +4,10 @@
   "description": "UI library jachi.",
   "main": "./dist/index.js",
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tresorama/jacopomarrone_use-ui.git"
+  },
   "babel": {
     "presets": [
       "@babel/preset-react"
